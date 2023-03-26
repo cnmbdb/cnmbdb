@@ -8,8 +8,8 @@
 
 <div><img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="300" height="100%" /></div>
 
-- 大家好，我是🥝，来自广东江门
-- 目前是一名机械在读研究生
+- 大家好，我是HF，来自马来西亚
+- 目前是一家国际网站搭建游客、做空性组织
 - 对数据结构与算法、前端、Linux驱动感兴趣
 - 欢迎光临我的Github 🍧
 
