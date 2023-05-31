@@ -59,8 +59,6 @@
 [![](https://activity-graph.herokuapp.com/graph?username=fomalhaut1998&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![fomalhaut1998's github stats](https://github-readme-stats.vercel.app/api?username=fomalhaut1998&show_icons=true&theme=tokyonight)
 
-### Github 贡献图
-[![fomalhaut1998's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fomalhaut1998&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
