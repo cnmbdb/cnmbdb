@@ -54,4 +54,4 @@
 
 ### 投喂作者🍭🍭🍭
 
-<a href="https://netflix233.tk/buy/55" target="_blank" rel="noopener"><img style="height: 40px !important; width: 145px !important;" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" /></a>
+<a href="https://store.hfz.pw/buy/55" target="_blank" rel="noopener"><img style="height: 40px !important; width: 145px !important;" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="投喂作者🍭" /></a>
