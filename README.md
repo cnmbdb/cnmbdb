@@ -39,12 +39,12 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=fomalhaut1998&amp;repo=fomalhaut1998.github.io&amp;theme=tokyonight)](https://github.com/fomalhaut1998/fomalhaut1998.github.io)
 
-<!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=fomalhaut1998&repo=DeleteSpace_and_Translation&theme=tokyonight)](https://github.com/fomalhaut1998/DeleteSpace_and_Translation)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=fomalhaut1998&repo=DeleteSpace_and_Translation&theme=tokyonight)](https://github.com/fomalhaut1998/DeleteSpace_and_Translation)
 
 -->
 
-<!-- ### 编程语言 -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fomalhaut1998&langs_count=6&theme=tokyonight) -->
+### 编程语言 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fomalhaut1998&langs_count=6&theme=tokyonight) -->
 
 ### Github 状态图
 [![](https://activity-graph.herokuapp.com/graph?username=fomalhaut1998&amp;theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
